@@ -1,0 +1,14 @@
+C:\Users\Joseph\source\repos\PSClearUI\PSClearUI\bin\Debug\PSClearUI.dll
+C:\Users\Joseph\source\repos\PSClearUI\PSClearUI\bin\Debug\PSClearUI.pdb
+C:\Users\Joseph\source\repos\PSClearUI\PSClearUI\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Joseph\source\repos\PSClearUI\PSClearUI\bin\Debug\Assembly-CSharp.dll
+C:\Users\Joseph\source\repos\PSClearUI\PSClearUI\bin\Debug\Rocket.API.dll
+C:\Users\Joseph\source\repos\PSClearUI\PSClearUI\bin\Debug\Rocket.Core.dll
+C:\Users\Joseph\source\repos\PSClearUI\PSClearUI\bin\Debug\Rocket.Unturned.dll
+C:\Users\Joseph\source\repos\PSClearUI\PSClearUI\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\Joseph\source\repos\PSClearUI\PSClearUI\bin\Debug\UnityEngine.dll
+C:\Users\Joseph\source\repos\PSClearUI\PSClearUI\obj\Debug\PSClearUI.csprojAssemblyReference.cache
+C:\Users\Joseph\source\repos\PSClearUI\PSClearUI\obj\Debug\PSClearUI.csproj.CoreCompileInputs.cache
+C:\Users\Joseph\source\repos\PSClearUI\PSClearUI\obj\Debug\PSClearUI.csproj.CopyComplete
+C:\Users\Joseph\source\repos\PSClearUI\PSClearUI\obj\Debug\PSClearUI.dll
+C:\Users\Joseph\source\repos\PSClearUI\PSClearUI\obj\Debug\PSClearUI.pdb
